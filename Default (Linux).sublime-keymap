@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["ctrl+u", "ctrl+e"],
+    "command": "enumerate",
+  },
+  {
+    "keys": ["ctrl+u", "e"],
+    "command": "translitirate",
+  },
+]
